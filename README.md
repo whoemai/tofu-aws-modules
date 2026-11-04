@@ -1,7 +1,7 @@
 # OpenTofu/Terraform AWS Modules 
 
 <p align="center">
-  <img src="assets/logo.jpeg" alt="Mascote do repositório: um yeti de capacete de mineiro ao lado de um cubo" width="200" height="200">
+  <img src="assets/logo.jpeg" alt="OpenTofu AWS Modules" width="100%">
 </p>
 
 > Simple & clean modules to use.
